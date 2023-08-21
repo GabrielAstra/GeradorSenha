@@ -1,0 +1,14 @@
+/home/gabriel/Desktop/GeradorSenha/bin/Debug/net7.0/GeradorSenha
+/home/gabriel/Desktop/GeradorSenha/bin/Debug/net7.0/GeradorSenha.deps.json
+/home/gabriel/Desktop/GeradorSenha/bin/Debug/net7.0/GeradorSenha.runtimeconfig.json
+/home/gabriel/Desktop/GeradorSenha/bin/Debug/net7.0/GeradorSenha.dll
+/home/gabriel/Desktop/GeradorSenha/bin/Debug/net7.0/GeradorSenha.pdb
+/home/gabriel/Desktop/GeradorSenha/obj/Debug/net7.0/GeradorSenha.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/GeradorSenha/obj/Debug/net7.0/GeradorSenha.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/GeradorSenha/obj/Debug/net7.0/GeradorSenha.AssemblyInfo.cs
+/home/gabriel/Desktop/GeradorSenha/obj/Debug/net7.0/GeradorSenha.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/GeradorSenha/obj/Debug/net7.0/GeradorSenha.dll
+/home/gabriel/Desktop/GeradorSenha/obj/Debug/net7.0/refint/GeradorSenha.dll
+/home/gabriel/Desktop/GeradorSenha/obj/Debug/net7.0/GeradorSenha.pdb
+/home/gabriel/Desktop/GeradorSenha/obj/Debug/net7.0/GeradorSenha.genruntimeconfig.cache
+/home/gabriel/Desktop/GeradorSenha/obj/Debug/net7.0/ref/GeradorSenha.dll
